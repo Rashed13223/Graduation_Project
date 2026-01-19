@@ -1,0 +1,1 @@
+SELECT * FROM `users` WHERE 1 AND phone='0568111111' AND password='28c89b18a5135fb7f4bdcf29970605f583ba11d51dd1a31dc1cd29ecd637b7ef' 
